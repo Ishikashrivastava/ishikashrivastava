@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ishika Shrivastava</h1>
 <h3 align="center">Dedicated data science student with a penchant for unraveling insights from complex datasets and a commitment to leveraging data-driven approaches for impactful solutions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishikashrivastava" alt="ishikashrivastava" /></a> </p>
 
 - 🌱 I’m currently learning **BigData Analytics**
 
