@@ -8,6 +8,8 @@
 - ⚡ Fun fact I Love explore data and places tooo
 - ✅ I love to Sing and Dance .
 
+![image](https://github.com/Ishikashrivastava/ishikashrivastava/assets/80690119/207da4db-6b8e-432b-8b83-24d341f8bd2b)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ishika shrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishika shrivastava" height="30" width="40" /></a>
