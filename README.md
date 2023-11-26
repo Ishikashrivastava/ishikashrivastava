@@ -3,10 +3,10 @@
 <h3 align="center">Dedicated data science student with a penchant for unraveling insights from complex datasets and a commitment to leveraging data-driven approaches for impactful solutions.</h3>
 
 
-- 🌱 I’m currently learning **BigData Analytics
+- 🌱 I’m currently learning BigData Analytics
 - 💬 KEEN about Data Analytics :)
 - ⚡ Fun fact I Love explore data and places tooo
-- ✅ I love to sing and dance .
+- ✅ I love to Sing and Dance .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
