@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **BigData Analytics
 - 💬 KEEN about Data Analytics :)
 - ⚡ Fun fact I Love explore data and places tooo
-- ✅ I love to sing and dance .**
+- ✅ I love to sing and dance .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
