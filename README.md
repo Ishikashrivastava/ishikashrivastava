@@ -1,5 +1,5 @@
 
-<h1 align="center">HELLLOOO FOLKSSS 👋,
+<h1 align="center">HELLLOOO FOLKSSS!!☺️,
                 I'm Ishika Shrivastava</h1>
 <h3 align="center">Dedicated data science student with a penchant for unraveling insights from complex datasets and a commitment to leveraging data-driven approaches for impactful solutions.</h3>
 
